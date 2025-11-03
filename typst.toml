@@ -1,0 +1,11 @@
+[package]
+name = "hw-template"
+version = "1.0.0"
+authors = ["asynkio <https://www.github.com/asynkio>"]
+entrypoint = "theme/theme.typ"
+category = "report"
+license = "Apache-2.0"
+
+[template]
+path = "template"
+entrypoint = "hw-template.typ"

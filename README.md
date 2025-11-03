@@ -1,8 +1,17 @@
-# scnu-cp-2025-hw
+# hw-template
 
-This repository contains my homework written assignments and
-code implementations for the compiler principles course.
+My typst template for homework assignments.
 
 ## Requirements
 
-- [asynkio/hw-template](https://github.com/asynkio/hw-templete)
+Fonts:
+
+- Libertinus Serif
+- Libertinus Math
+- Hack
+- Noto Sans CJK SC
+- 汉仪中黑（[HYZhongHei](https://www.hanyi.com.cn/productdetail.php?id=554&type=0)）
+- 汉仪书宋二（[HYShuSongEr](https://www.hanyi.com.cn/productdetail?id=930&type=0)）
+
+Hanyi fonts can be downloaded for free for personal non-commercial use
+from the Hanyi website.
